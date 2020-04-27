@@ -8,5 +8,11 @@
     <string name="resultado_button">Ver Resultados</string>
     <string name="Titulo_Resultados">Resultados</string>
     <string name="about_fragment">About</string>
-    <string name="about_information">informacion</string>
+    <string name="about_information">Es una aplicacion destinada a ayudarte con la administracion de invitados
+    para todo tipo de evento. Disfrutala y sacale el mayor provecho!
+    </string>
+    <string name="telefono_text">Telefono:</string>
+    <string name="email_text">Email:</string>
+    <string name="atendio_button">Registrado</string>
+    <string name="no_atendio_button">No Registrado</string>
 </resources>
