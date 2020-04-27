@@ -8,4 +8,5 @@
     <string name="resultado_button">Ver Resultados</string>
     <string name="Titulo_Resultados">Resultados</string>
     <string name="about_fragment">About</string>
+    <string name="about_information">informacion</string>
 </resources>
